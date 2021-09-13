@@ -72,13 +72,13 @@ table{
 }
 
 th{
-    width: 15%;
+    width: 25%;
     background-color: #03a9f4;
     color: #fff;
 }
 
 td{
-    width: 15%;
+    width: 25%;
 }
 
 .linebackground{
