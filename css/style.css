@@ -54,3 +54,25 @@ header{
 ul{
     padding: 0 0 0 20px;
 }
+
+/* Table section */
+
+table{
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+th{
+    width: 15%;
+    background-color: #03a9f4;
+    color: #fff;
+}
+
+td{
+    width: 15%;
+}
+
+.linebackground{
+    background-color: #00bcd46b;
+}
