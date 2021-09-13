@@ -1,0 +1,12 @@
+header{
+    height: 140px;
+    background: #03a9f4;
+    background-image: url(../img/pattern.png);
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.logo{
+    width: 300px;
+    padding-top: 65px;
+}
