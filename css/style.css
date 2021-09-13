@@ -19,8 +19,13 @@ header{
 
 /* Container */
 
+.title h1{
+    margin: 0;
+}
+
 .title p{
     color: #9e9e9e;
+    margin: 0;
 }
 
 .colorblue{
@@ -29,4 +34,15 @@ header{
 
 .size{
     font-size: 13px;
+}
+
+/* Slider section */
+
+.slider{
+    margin-top: 20px;
+}
+
+.slider p{
+    font-size: 13px;
+    margin: 0;
 }
